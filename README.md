@@ -8,6 +8,8 @@ Paper is online: https://www.mdpi.com/2076-3417/11/19/8842
 
 In processed data directory, audio sample is processed to mel-spectrogram of 32 x 32 shape.
 
+You can download the dataset from this [link](https://www.kaggle.com/datasets/zeroaishazero/urduaudiodigit). 
+
 If you use datataset, donot forget to cite our work: 
 
 @article{chandio2021audd,
